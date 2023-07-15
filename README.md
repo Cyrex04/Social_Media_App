@@ -1,7 +1,6 @@
-# flutter_trial
+# My_First_Social_media_App
 
-A new Flutter project.
-
+A Social media app where you can make posts , like others posts, and comment on them, back end done using fire base.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
